@@ -1,0 +1,30 @@
+555 B
+#############
+- Monoliths & Microservices
+- Service mesh
+- Istio
+- Installing Istio
+- Deploying first app
+- Visualze service mesh with kiali 
+- Create traffic into your mesh
+- k8s services
+- sidecars
+- envoy
+Traffic mgmt:
+- Gateways
+- Virtual services
+- Destination rules
+- Fault Injection
+- Timeouts 
+- Retries 
+- Circuit breaking
+- A/B Testing
+Security:
+- Security in istio 
+- Istio security architecture
+- Authentication
+- Authorization
+- Certificate mgmt
+Observability:
+- Visualze metrics with prometheus
+- Distributed tracing with Jaegar 
